@@ -1,7 +1,7 @@
 <p align="center">
 <img width="240" height="80" align="left" style="float: left; margin: 0 10px 0 0;" src="https://archlinuxstudio.github.io/EtherRevelation/Ethereum-Landscape-Black-Logo.wine.svg" alt="ArchLinuxStudio_EtherRevelation"/>
 </br>
-<h1>以太启示录</h1>
+<h1>以太启示录 WIP</h1>
 
 PLACE_HOLDER
 
