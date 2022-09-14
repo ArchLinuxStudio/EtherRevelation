@@ -1,9 +1,11 @@
 <p align="center">
-<img width="240" height="80" align="left" style="float: left; margin: 0 10px 0 0;" src="https://archlinuxstudio.github.io/EtherRevelation/Ethereum-Landscape-Black-Logo.wine.svg" alt="ArchLinuxStudio_EtherRevelation"/>
+<img width="164.705882353" height="70" align="left" style="float: left; margin: 0 10px 0 0;" src="https://archlinuxstudio.github.io/etherrevelation/maxresdefault2.jpg" alt="ArchLinuxStudio_EtherRevelation"/>
 </br>
 <h1>以太启示录 WIP</h1>
 
-PLACE_HOLDER
+比特币的出现如耶和华创世一般，首先创造出了一切。而以太坊的出现则如耶稣降世般，为人们带来了更多的可能性。随着时间的发展，在以太坊进行POS转换后，不可避免的出现了更多的争议，然而这一切经历都给我们带来了更多的思考。
+
+本书的第一部分将讲解与描述以太坊等区块链的技术细节，教授读者相关技术知识。第二部分将从区块链本身出发，着重讲解区块链中具有金融属性的部分，并讲解如何能够从区块链行业中获利。第三部分将讲述我们对于区块链本身的存在的理解和解读。
 
 本项目隶属于 ArchLinuxStudio，一个加拿大社区组织。ArchLinuxStudio 不是官方 ArchLinux 本身。
 
@@ -16,10 +18,10 @@ PLACE_HOLDER
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Lines](https://img.shields.io/tokei/lines/github/ArchLinuxStudio/EtherRevelation)](https://img.shields.io/tokei/lines/github/ArchLinuxStudio/EtherRevelation)
 [![lastcommit](https://img.shields.io/github/last-commit/ArchLinuxStudio/EtherRevelation)](https://img.shields.io/github/last-commit/ArchLinuxStudio/EtherRevelation)
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/1Lth3oca4WnMnTnwHBcDLkEqniA2pBxkeC)](https://en.cryptobadges.io/donate/1Lth3oca4WnMnTnwHBcDLkEqniA2pBxkeC)
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0x5A218a8d570d9947f42e0a4916ece7a60A181c2d)](https://en.cryptobadges.io/donate/0x5A218a8d570d9947f42e0a4916ece7a60A181c2d)
-[![Donate with Litecoin](https://en.cryptobadges.io/badge/micro/LdJXzaSzzrAxfKJdj5effRLcC7k1TbuXJ8)](https://en.cryptobadges.io/donate/LdJXzaSzzrAxfKJdj5effRLcC7k1TbuXJ8)
-[![Donate with Monero](https://en.cryptobadges.io/badge/micro/43KJJZztPtBC7k8ZjJpuw7bThW1mUH6N947TeNxvsSHD7DywRN365WZ7qpSxVopSd7cg4PFjMuUewjfvATUtTKGQLMboU36)](https://en.cryptobadges.io/donate/43KJJZztPtBC7k8ZjJpuw7bThW1mUH6N947TeNxvsSHD7DywRN365WZ7qpSxVopSd7cg4PFjMuUewjfvATUtTKGQLMboU36)
+[![Donate with Bitcoin](https://img.shields.io/static/v1?label=DonatewithBTC&message=1Lth3oca4WnMnTnwHBcDLkEqniA2pBxkeC&color=ef8e19)]()
+[![Donate with Ethereum](https://img.shields.io/static/v1?label=DonatewithETH&message=0x5A218a8d570d9947f42e0a4916ece7a60A181c2d)]()
+[![Donate with Litecoin](https://img.shields.io/static/v1?label=DonatewithLTC&message=LdJXzaSzzrAxfKJdj5effRLcC7k1TbuXJ8&color=325a98)]()
+[![Donate with Monero](https://img.shields.io/static/v1?label=DonatewithXMR&message=43KJJZztPtBC7k8ZjJpuw7bThW1mUH6N947TeNxvsSHD7DywRN365WZ7qpSxVopSd7cg4PFjMuUewjfvATUtTKGQLMboU36&color=ea6521)]()
 
 <!-- shields not support telegram online count now, use sample discord instead temporarily -->
 
@@ -33,15 +35,10 @@ PLACE_HOLDER
 
 如果能接受到加密货币捐赠，我们将非常感谢。有你的支持，ArchLinuxStudio 社区将变得更加充实与活跃。
 
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/1Lth3oca4WnMnTnwHBcDLkEqniA2pBxkeC?showBalance=true)](https://en.cryptobadges.io/donate/1Lth3oca4WnMnTnwHBcDLkEqniA2pBxkeC)
-
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0x5A218a8d570d9947f42e0a4916ece7a60A181c2d?showBalance=true)](https://en.cryptobadges.io/donate/0x5A218a8d570d9947f42e0a4916ece7a60A181c2d)
-
-[![Donate with Litecoin](https://en.cryptobadges.io/badge/big/LdJXzaSzzrAxfKJdj5effRLcC7k1TbuXJ8?showBalance=true)](https://en.cryptobadges.io/donate/LdJXzaSzzrAxfKJdj5effRLcC7k1TbuXJ8)
-
-<!-- Preview is broken now, check XMR address here, or in the browser address. -->
-
-[![Donate with Monero](https://en.cryptobadges.io/badge/big/43KJJZztPtBC7k8ZjJpuw7bThW1mUH6N947TeNxvsSHD7DywRN365WZ7qpSxVopSd7cg4PFjMuUewjfvATUtTKGQLMboU36?showBalance=true)](https://en.cryptobadges.io/donate/43KJJZztPtBC7k8ZjJpuw7bThW1mUH6N947TeNxvsSHD7DywRN365WZ7qpSxVopSd7cg4PFjMuUewjfvATUtTKGQLMboU36)
+- Donate with Bitcoin: `1Lth3oca4WnMnTnwHBcDLkEqniA2pBxkeC`
+- Donate with Ethereum: `0x5A218a8d570d9947f42e0a4916ece7a60A181c2d`
+- Donate with Litecoin: `LdJXzaSzzrAxfKJdj5effRLcC7k1TbuXJ8`
+- Donate with Monero: `43KJJZztPtBC7k8ZjJpuw7bThW1mUH6N947TeNxvsSHD7DywRN365WZ7qpSxVopSd7cg4PFjMuUewjfvATUtTKGQLMboU36`
 
 ## Star 历史
 
