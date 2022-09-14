@@ -27,7 +27,17 @@
 
 ## [阅读地址](https://ArchLinuxStudio.github.io/EtherRevelation/#/)
 
-- Linux & ACG [Telegram Group:ArchLinuxStudio🇨🇦🏳️‍⚧️🏳️‍🌈](https://t.me/FSF_Ministry_of_Truth) ||| [Matrix Group:ArchLinuxStudio🇨🇦🏳️‍⚧️🏳️‍🌈](https://matrix.to/#/#ArchLinuxStudio:matrix.org)。
+
+本书为推动自由软件运动而撰写。由于我们的精力和水平有限，书中如有出现错误，敬请直接指出。
+
+- 本书特点
+  - 我们始终将读者的隐私和安全放在首位，使用自由软件可以为你提供相当幅度上的保障。提出所谓的"实用"或"避免意识形态争议"而对自由软件运动进行质疑的人或组织是愚蠢且邪恶的。
+  - 我们认为区块链技术在金融方面补齐了自由软件世界的一片非常重要的空缺。我们将着重在金融部分进行讨论。
+  - 本书样式保持尽可能的简洁，以提升读者的网站加载速度。同时，我们认为花哨的样式不应存在于一本较为严肃的书籍中。
+  - 本书使用 docsify 以及 gitalk 开发，并且网站源码全部开源，可放心留言讨论。本网站亦不使用任何有害跟踪器脚本，所提供的文件下载不进行任何审计与监视，你可通过 [Brave 浏览器](https://brave.com/zh/)以及阅读源码进行检测验证。
+  - Linux & ACG [Telegram Group:ArchLinuxStudio🇨🇦🏳️‍⚧️🏳️‍🌈](https://t.me/FSF_Ministry_of_Truth) ||| [Matrix Group:ArchLinuxStudio🇨🇦🏳️‍⚧️🏳️‍🌈](https://matrix.to/#/#ArchLinuxStudio:matrix.org)。
+
+> **本书采用 CC BY-NC-ND 4.0 协议。欢迎提交Pull requests，但是禁止商业用途与演绎。任何"下游文档"都是未经授权且违反协议的。**
 
 ## 支持与捐赠
 
