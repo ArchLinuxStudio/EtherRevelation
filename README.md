@@ -1,5 +1,5 @@
 <p align="center">
-<img width="164.705882353" height="70" align="left" style="float: left; margin: 0 10px 0 0;" src="https://archlinuxstudio.github.io/etherrevelation/maxresdefault2.jpg" alt="ArchLinuxStudio_EtherRevelation"/>
+<img width="360.225140713" height="150" align="left" style="float: left; margin: 0 10px 0 0;" src="https://archlinuxstudio.github.io/EtherRevelation/maxresdefault2.jpg" alt="ArchLinuxStudio_EtherRevelation"/>
 </br>
 <h1>以太启示录 WIP</h1>
 
