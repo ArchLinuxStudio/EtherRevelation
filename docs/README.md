@@ -1,6 +1,6 @@
 # 以太启示录 - EtherRevelation - Arch Linux Studio <!-- {docsify-ignore-all} -->
 
-Arch Linux 安装使用教程，每日实时更新！包含从 Arch Linux 安装，科学上网，透明代理，显卡驱动，日常软件的使用等，另附媒体制作，编程，加密货币在 ArchLinux 上的使用等你可能需要的全部内容。让 Arch Linux 成为你的常用系统吧！
+以太启示录，每日实时更新！包含从 Arch Linux 安装，科学上网，透明代理，显卡驱动，日常软件的使用等，另附媒体制作，编程，加密货币在 ArchLinux 上的使用等你可能需要的全部内容。让 Arch Linux 成为你的常用系统吧！
 
 - 本书特点
   - 我们始终将读者的隐私和安全放在首位，使用自由软件可以为你提供相当幅度上的保障。提出所谓的"实用"或"避免意识形态争议"而对自由软件运动进行质疑的人或组织是愚蠢且邪恶的。
@@ -43,12 +43,7 @@ Arch Linux 可以以超高的自由度来定制自己的系统，并且其拥有
 
 如果能接受到加密货币捐赠，我们将非常感谢。有你的支持，ArchLinuxStudio 社区将变得更加充实与活跃。
 
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/1Lth3oca4WnMnTnwHBcDLkEqniA2pBxkeC?showBalance=true)](https://en.cryptobadges.io/donate/1Lth3oca4WnMnTnwHBcDLkEqniA2pBxkeC)
-
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0x5A218a8d570d9947f42e0a4916ece7a60A181c2d?showBalance=true)](https://en.cryptobadges.io/donate/0x5A218a8d570d9947f42e0a4916ece7a60A181c2d)
-
-[![Donate with Litecoin](https://en.cryptobadges.io/badge/big/LdJXzaSzzrAxfKJdj5effRLcC7k1TbuXJ8?showBalance=true)](https://en.cryptobadges.io/donate/LdJXzaSzzrAxfKJdj5effRLcC7k1TbuXJ8)
-
-[![Donate with Monero](https://en.cryptobadges.io/badge/big/43KJJZztPtBC7k8ZjJpuw7bThW1mUH6N947TeNxvsSHD7DywRN365WZ7qpSxVopSd7cg4PFjMuUewjfvATUtTKGQLMboU36?showBalance=true)](https://en.cryptobadges.io/donate/43KJJZztPtBC7k8ZjJpuw7bThW1mUH6N947TeNxvsSHD7DywRN365WZ7qpSxVopSd7cg4PFjMuUewjfvATUtTKGQLMboU36)
-
-<!-- windows是最好的Linux发行版？It's only a BORING joke. -->
+- Donate with Bitcoin: `1Lth3oca4WnMnTnwHBcDLkEqniA2pBxkeC`
+- Donate with Ethereum: `0x5A218a8d570d9947f42e0a4916ece7a60A181c2d`
+- Donate with Litecoin: `LdJXzaSzzrAxfKJdj5effRLcC7k1TbuXJ8`
+- Donate with Monero: `43KJJZztPtBC7k8ZjJpuw7bThW1mUH6N947TeNxvsSHD7DywRN365WZ7qpSxVopSd7cg4PFjMuUewjfvATUtTKGQLMboU36`

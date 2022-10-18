@@ -121,3 +121,16 @@ http://abcexchange.io/articles/trading/092613/difference-between-short-selling-a
 # 交易系统
 
 如何建立自己的交易系统  一个合理的交易系统并执行是必须的
+
+
+## 市场信息网站
+
+https://www.coingecko.com/
+https://coinmarketcap.com/
+
+https://cryptorank.io/
+
+
+
+
+bisq钱包

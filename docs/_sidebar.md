@@ -1,4 +1,4 @@
-- [**Arch Linux 安装使用教程 - ArchTutorial - Arch Linux Studio**](/)
+- [**以太启示录 - EtherRevelation - Arch Linux Studio**](/)
 
 - 新手上路
 

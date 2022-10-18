@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
 
-    <title>Arch Linux 安装使用教程 - ArchTutorial - Arch Linux Studio</title>
+    <title>以太启示录 - EtherRevelation - Arch Linux Studio</title>
 
     <meta
       name="description"
@@ -30,16 +30,16 @@
     <!-- Facebook Meta Tags -->
     <meta
       property="og:url"
-      content="https://archlinuxstudio.github.io/ArchLinuxTutorial/#/"
+      content="https://archlinuxstudio.github.io/EtherRevelation/#/"
     />
     <meta property="og:type" content="website" />
     <meta
       property="og:title"
-      content="Arch Linux 安装使用教程 - ArchTutorial - Arch Linux Studio"
+      content="以太启示录 - EtherRevelation - Arch Linux Studio"
     />
     <meta
       property="og:description"
-      content="Arch Linux 安装使用教程 包含从 安装/魔法上网/美化/日常/娱乐/编程的全部"
+      content="以太启示录 包含从 安装/魔法上网/美化/日常/娱乐/编程的全部"
     />
     <meta
       property="og:image"
@@ -52,15 +52,15 @@
     <meta property="twitter:domain" content="archlinuxstudio.github.io" />
     <meta
       property="twitter:url"
-      content="https://archlinuxstudio.github.io/ArchLinuxTutorial/#/"
+      content="https://archlinuxstudio.github.io/EtherRevelation/#/"
     />
     <meta
       name="twitter:title"
-      content="Arch Linux 安装使用教程 - ArchTutorial - Arch Linux Studio"
+      content="以太启示录 - EtherRevelation - Arch Linux Studio"
     />
     <meta
       name="twitter:description"
-      content="Arch Linux 安装使用教程 包含从 安装/魔法上网/美化/日常/娱乐/编程的全部"
+      content="以太启示录 包含从 安装/魔法上网/美化/日常/娱乐/编程的全部"
     />
     <meta
       name="twitter:image"
@@ -92,12 +92,12 @@
       .app-name {
         padding-top: 10px;
 
-        border-bottom: 4px solid rgb(0, 136, 204);
+        border-bottom: 4px solid rgb(95, 122, 227);
         background-color: rgb(51, 51, 51);
       }
 
       .app-name-link img {
-        width: 70%;
+        /* width: 70%; */
       }
 
       .seo-pic {
@@ -108,12 +108,11 @@
   <body>
     <img
       src="./arch.svg"
-      alt="Arch Linux 安装使用教程 - ArchTutorial - Arch Linux Studio"
+      alt="以太启示录 - EtherRevelation - Arch Linux Studio"
       class="seo-pic"
     />
     <div id="app">
-      Arch Linux 安装使用教程 包含从
-      安装/魔法上网/美化/日常/娱乐/编程的全部...<br />
+      以太启示录 包含从 安装/魔法上网/美化/日常/娱乐/编程的全部...<br />
       如您无法访问本站，则说明您的网络环境已被当局封锁，请翻墙访问
     </div>
     <script>
@@ -122,15 +121,15 @@
         search: {
           placeholder: '搜索...',
         },
-        name: 'Arch Linux 安装使用教程 - ArchTutorial - Arch Linux Studio',
+        name: '以太启示录 - EtherRevelation - Arch Linux Studio',
         loadSidebar: true,
         auto2top: true,
-        logo: './arch.svg',
+        logo: 'https://archlinuxstudio.github.io/EtherRevelation/maxresdefault2.jpg',
         topMargin: 90,
         notFoundPage: true,
         subMaxLevel: 4,
-        themeColor: 'rgb(23,147,209)',
-        repo: 'https://github.com/ArchLinuxStudio/ArchLinuxTutorial',
+        themeColor: 'rgb(95, 122, 227)',
+        repo: 'https://github.com/ArchLinuxStudio/EtherRevelation',
         formatUpdated: '{YYYY}-{MM}-{DD}',
         pagination: {
           previousText: 'Previous',
@@ -142,7 +141,7 @@
           function (hook, vm) {
             hook.beforeEach(function (html) {
               let edit_url =
-                'https://github.com/ArchLinuxStudio/ArchLinuxTutorial/blob/master/docs/' +
+                'https://github.com/ArchLinuxStudio/EtherRevelation/blob/master/docs/' +
                 vm.route.file;
               let editHtml = '[📝 Edit This Page](' + edit_url + ')\n';
 
@@ -209,19 +208,19 @@
     <script>
       addBackToTop({
         diameter: 56,
-        backgroundColor: 'rgb(23,147,209)',
+        backgroundColor: 'rgb(95, 122, 227)',
         textColor: '#fff',
       });
     </script>
 
     <script>
-      let client_id = '296c581fc4b2a837a1e3';
-      let client_secret = '7e7f0ad1809fa4a1915430ade04835f6849ab56a';
+      let client_id = 'c5a5142a9e42ac8dc1db';
+      let client_secret = '876d08ddffae45843cd1a2ca0df645c725957024';
 
       let props = {
         clientID: client_id,
         clientSecret: client_secret,
-        repo: 'ArchLinuxTutorialComments',
+        repo: 'EtherRevelationComments',
         owner: 'ArchLinuxStudio',
         admin: ['ryosukeeeeee'],
         // facebook-like distraction free mode
@@ -261,7 +260,7 @@
         let todayMinute = today.getMinutes();
         let todaySecond = today.getSeconds();
 
-        let t1 = Date.UTC(2020, 09, 1, 0, 0, 0);
+        let t1 = Date.UTC(2022, 06, 14, 0, 0, 0);
         let t2 = Date.UTC(
           todayYear,
           todayMonth,
@@ -281,7 +280,7 @@
             seconds
         );
         Docsify.dom.find('.runtime').innerHTML =
-          'Arch Linux Studio has been running for ' +
+          'EtherRevelation has been running for ' +
           diffDays +
           ' days ' +
           diffHours +
@@ -294,5 +293,51 @@
       // 先让网页加载完，否则 Docsify.dom.find('.runtime') == null
       setTimeout(siteTime, 500);
     </script>
+
+    <style>
+      .gt-ico-text,
+      .gt-btn-text {
+        color: #000000;
+      }
+
+      .gt-container .gt-btn-login {
+        background-color: rgb(95, 122, 227);
+        border: 1px solid rgb(95, 122, 227);
+      }
+
+      .gt-container .gt-btn-public {
+        background-color: rgb(95, 122, 227);
+        border: 1px solid rgb(95, 122, 227);
+      }
+
+      .gt-container .gt-btn-public:hover {
+        background-color: rgb(95, 122, 227);
+        border: 1px solid rgb(95, 122, 227);
+      }
+
+      .gt-container .gt-btn {
+        border: 1px solid rgb(95, 122, 227);
+      }
+
+      .gt-container .gt-btn-loadmore {
+        background-color: rgb(95, 122, 227);
+      }
+
+      .gt-container .gt-btn-preview:hover {
+        border: 1px solid rgb(95, 122, 227);
+      }
+
+      .gt-container .gt-svg svg {
+        fill: rgb(95, 122, 227);
+      }
+
+      .gt-container .gt-comment-username {
+        color: rgb(95, 122, 227);
+      }
+
+      gt-container .gt-popup .gt-action.is--active:before {
+        background: rgb(95, 122, 227);
+      }
+    </style>
   </body>
 </html>
