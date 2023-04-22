@@ -10,6 +10,7 @@
 
 - 区块链金融系统
 
+  - [获取空投](/trade/airdrop)
   - [基本面、技术面与消息面](/trade/basic)
   - [现货交易](/trade/spot)
   - [合约交易](/trade/futures)
