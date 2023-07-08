@@ -18,11 +18,13 @@
   - [套利](/trade/arbitrage)
   - [POW 挖矿](/trade/pow_mining)
   - [POS 节点运营与质押](/trade/pos_stake)
-  - [区块链借贷金融](/trade/lend)
+  - [区块链借贷金融](/trade/defi)
 
 - 区块链领域的思考与随笔
 
   - [去中心化与中心化](/think/decentralized)
+  - [区块链安全](/think/security)
+  - [赛道的选择](/think/choice)
 
 - [贡献文档与代码](contribution.md)
 - [关于&致谢](about.md)

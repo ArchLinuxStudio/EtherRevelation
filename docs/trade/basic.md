@@ -19,5 +19,6 @@
 - [金十数据](https://www.jin10.com/) 实时播放金融领域的新闻，并有日历功能，可以方便的查看过往与即将发布的金融数据。
 - [AICoin](https://www.aicoin.com/) 币圈数据、新闻、行情整合 质量尚可。
 - [BlockBeats 律动](https://t.me/theblockbeats) 专注币圈的每日新闻，更新频率高。
+- [foresightnews](https://foresightnews.pro/)
 - [coingecko](https://www.coingecko.com/) coingecko，币圈行情信息汇聚网站。
 - [coinmarketcap](https://coinmarketcap.com/) coinmarketcap，币圈行情信息汇聚网站。
